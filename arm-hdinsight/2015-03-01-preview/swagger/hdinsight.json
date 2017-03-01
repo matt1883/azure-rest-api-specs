@@ -226,7 +226,7 @@
           "Clusters"
         ],
         "operationId": "Clusters_Create",
-        "description": "Begins creating a new HDInsight cluster with the specified parameters.",
+        "description": "Create a new HDInsight cluster.",
         "x-ms-examples": {
           "Create Hadoop on Linux cluster with SSH password": {
             "$ref": "../examples/CreateLinuxHadoopSshPassword.json"
